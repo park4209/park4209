@@ -1,6 +1,6 @@
 ### About Me
 
-- blog : [My Github blog(temp)](https://park4209.github.io/)
+
 
 
 ![park's github stats](https://github-readme-stats.vercel.app/api?username=park4209&hide=contribs,prs&count_private=true&show_icons=true&theme=onedark)
